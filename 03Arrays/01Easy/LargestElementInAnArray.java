@@ -1,4 +1,4 @@
-import Utils.ArrayUtils;
+import utils.ArrayUtils;
 
 public class LargestElementInAnArray {
     public static void main(String[] args) {
