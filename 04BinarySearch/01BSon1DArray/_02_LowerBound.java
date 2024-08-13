@@ -1,4 +1,4 @@
-public class LowerBound {
+public class _02_LowerBound {
     public static void main(String[] args) {
         int[] arr = {1,2,2,3,3,4,5,6};
 
